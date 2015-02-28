@@ -79,7 +79,7 @@
 }
 
 body{
-	min-width:1360px;
+	min-width:1340px;
 }
 
 header{
@@ -291,7 +291,7 @@ header{
 
 #runTitles{
 	position: relative;
-	margin: 10px 200px;
+	margin: 10px 190px;
 	padding: 0 10px;
 }
 
@@ -300,7 +300,7 @@ header{
 	display: inline-block;
 	margin: 1px;
 	color: white;
-	width: 180px;
+	width: 182px;
 	opacity: 0.5;
 }
 
