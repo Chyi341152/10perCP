@@ -254,12 +254,12 @@ header{
 #girlsText{
 	position: absolute;
 	top: 10%;
-	left: 59%;
-	width: 400px;
+	left: 56%;
+	width: 390px;
 }
 
 #girlsText p:nth-child(2){
-	margin-top: 10px;
+	margin-top: 10px ;
 }
 
 #shoeImg{
